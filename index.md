@@ -8,10 +8,10 @@ This Is **Daksh Mittal**, I'm currently pursuing my studies in **Computer Scienc
 
 ## Education
 
-| **Degree**          | **Institution**        | **Year of Graduation** | **Major**             |
-|---------------------|------------------------|------------------------|-----------------------|
- | B.Tech             | MNIT                    | 2027                  | Computer Science      |
-| High School         | Modern Sr. Secondary    | 2023                | Academic Studies        |
+| **Degree**          | **Institution**        | **Year of Graduation** | **Major**             | **Grade** |
+|---------------------|------------------------|------------------------|-----------------------|------|
+ | B.Tech             | MNIT                    | 2027                  | Computer Science      |8.98|
+| High School         | Modern Sr. Secondary    | 2023                | Academic Studies        |94.0 %|
 
 **Key Courses:**
 - 100x Engineers GenAI Cohort
@@ -57,7 +57,7 @@ This Is **Daksh Mittal**, I'm currently pursuing my studies in **Computer Scienc
 
 Feel free to reach out to me at:
 
-- **Email**: 2023ucp1592@mnit.ac.in
+- **Email**: [2023ucp1592@mnit.ac.in](2023ucp1592@mnit.ac.in)
 - **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **GitHub**: [github.com/your-profile](https://github.com/your-profile)
 
@@ -65,4 +65,3 @@ Feel free to reach out to me at:
 
 ## Footer
 *This portfolio is designed and maintained by Daksh Mittal*  
-
